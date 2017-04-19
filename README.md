@@ -1,9 +1,14 @@
-# api documentation for  [ng-file-upload (v12.2.13)](https://github.com/danialfarid/ng-file-upload)  [![npm package](https://img.shields.io/npm/v/npmdoc-ng-file-upload.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ng-file-upload) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ng-file-upload.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ng-file-upload)
+# npmdoc-ng-file-upload
+
+#### api documentation for  [ng-file-upload (v12.2.13)](https://github.com/danialfarid/ng-file-upload)  [![npm package](https://img.shields.io/npm/v/npmdoc-ng-file-upload.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ng-file-upload) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ng-file-upload.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ng-file-upload)
+
 #### An AngularJS directive for file upload using HTML5 with FileAPI polyfill for unsupported browsers
 
-[![NPM](https://nodei.co/npm/ng-file-upload.png?downloads=true)](https://www.npmjs.com/package/ng-file-upload)
+[![NPM](https://nodei.co/npm/ng-file-upload.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ng-file-upload)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-ng-file-upload/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-ng-file-upload_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-ng-file-upload/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-ng-file-upload/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-ng-file-upload/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-ng-file-upload/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-ng-file-upload/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-ng-file-upload/build/screenCapture.npmPackageListing.svg)
 
@@ -58,13 +63,11 @@
     "license": "MIT",
     "maintainers": [
         {
-            "name": "danial.farid",
-            "email": "danial.farid@gmail.com"
+            "name": "danial.farid"
         }
     ],
     "name": "ng-file-upload",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/danialfarid/ng-file-upload.git"
@@ -75,16 +78,6 @@
     "version": "12.2.13"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module ng-file-upload](#apidoc.module.ng-file-upload)
-
-
-
-# <a name="apidoc.module.ng-file-upload"></a>[module ng-file-upload](#apidoc.module.ng-file-upload)
 
 
 
